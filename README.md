@@ -20,8 +20,6 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![ssh](https://img.shields.io/badge/SSH-not%20required-brightgreen)
 
-** Made with <3 by [dr34mhacks](https://github.com/dr34mhacks)**
-
 </div>
 
 ---
